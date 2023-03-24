@@ -1,1 +1,2 @@
+@flow
 print('hello')
