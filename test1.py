@@ -1,2 +1,5 @@
+from prefect import flow, task
+
 @flow
-print('hello')
+def test():
+    print('hello')
